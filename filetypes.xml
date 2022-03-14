@@ -5,6 +5,7 @@
       <mapping pattern="_gitignore" type="AUTO_DETECTED" />
       <mapping pattern="npm-publish" type="AUTO_DETECTED" />
       <mapping pattern="_tmp_12813_43ddaa39b41bd5a2b77ec76435f518ed" type="AUTO_DETECTED" />
+      <mapping pattern="commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="README" type="AUTO_DETECTED" />
       <mapping pattern="RtcRoom" type="AUTO_DETECTED" />
       <mapping pattern="whiteboard-demo-start.sh" type="AUTO_DETECTED" />
