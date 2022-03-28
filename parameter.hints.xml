@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Go">
+        <added pattern="FUNCTION:net/http#Get(url)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
