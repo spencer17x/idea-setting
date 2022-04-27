@@ -64,6 +64,11 @@
             <PluginData />
           </value>
         </entry>
+        <entry key="org.jetbrains.plugins.vue">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="ru.adelf.idea.dotenv">
           <value>
             <PluginData>
