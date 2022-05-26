@@ -11,6 +11,7 @@
       <mapping pattern="whiteboard-demo-start.sh" type="AUTO_DETECTED" />
       <mapping pattern=".npmrc " type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.qa" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
