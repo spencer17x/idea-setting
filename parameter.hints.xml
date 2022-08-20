@@ -4,6 +4,9 @@
       <blacklist language="Go">
         <added pattern="FUNCTION:net/http#Get(url)" />
       </blacklist>
+      <blacklist language="TypeScript">
+        <added pattern="React.useEffect(effect,deps)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
