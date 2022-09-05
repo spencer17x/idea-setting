@@ -19,7 +19,6 @@
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="yaml " type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="sdef" type="XML" />
       <mapping pattern="pnpm-workspace" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
